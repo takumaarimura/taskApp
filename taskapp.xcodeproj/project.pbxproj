@@ -29,7 +29,7 @@
 		E81B1BCF24F28AAF00615110 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E81B1BD224F28AAF00615110 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		E81B1BD424F28AAF00615110 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		E81B1BDC24F3D6AC00615110 /* InputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; name = InputViewController.swift; path = ../../InputViewController.swift; sourceTree = "<group>"; };
+		E81B1BDC24F3D6AC00615110 /* InputViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InputViewController.swift; sourceTree = "<group>"; };
 		E8F2A72B24FD142100F258B0 /* Task.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Task.swift; sourceTree = "<group>"; };
 		EDB58F5153C9C7E02F0768A2 /* Pods_taskapp.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_taskapp.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 /* End PBXFileReference section */
